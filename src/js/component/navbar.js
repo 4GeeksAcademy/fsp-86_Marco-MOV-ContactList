@@ -6,7 +6,6 @@ export const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark">
             <div className="container">
-                {/* Logo o marca */}
                 <Link to="/" className="navbar-brand">
                     Contact Manager
                 </Link>
